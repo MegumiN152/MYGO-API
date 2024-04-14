@@ -272,18 +272,14 @@ public class YuApiClientConfig {
 
 ##### 4.4 接口服务功能设计
 
-* 获取热门平台热搜集合
-  ![输入图片说明](img/10image.png)
-* 获取一句心灵鸡汤
-  ![输入图片说明](img/11image.png)
-* 输入菜系和餐点获取一个菜名，若不指定则随机指定
-  ![输入图片说明](img/12image.png)
-* 输入城市名字和类型，获取天气信息，若不指定则返回当地城市和当天天气
-  ![输入图片说明](img/13image.png)
-* 随机获取一张男女生头像图片地址
-  ![输入图片说明](img/14image.png)
-* 获取一个笑话
-  ![输入图片说明](img/15image.png)
+* 获取b站热搜集合
+  ![获取b站热搜](https://github.com/MegumiN152/MYGO-API/assets/104641621/91519d0f-94a1-40bc-993d-b9d46b99682c)
+* 获取随机食物名称
+  ![吃什么](https://github.com/MegumiN152/MYGO-API/assets/104641621/cb02257b-f959-454f-9f9a-8ee5427574da)
+* 60s读懂世界
+  ![60s读懂世界](https://github.com/MegumiN152/MYGO-API/assets/104641621/cece0128-3dbb-4de7-9712-2f32fb73af91)
+* 输入ip获取该ip的具体信息
+  ![ip信息](https://github.com/MegumiN152/MYGO-API/assets/104641621/1c7c2f41-579c-4421-86a2-8640bf315f56)
 
 ##### 4.5 用户接口功能设计
 
@@ -293,5 +289,4 @@ public class YuApiClientConfig {
 
 #### 5. 联系方式
 
-* 邮箱：13517950816@163.com
-
+* 邮箱：3105755134@qq.com
